@@ -1,0 +1,61 @@
+track_id,track_name,artist_name,album_name,genre,release_date,duration_ms,popularity,explicit,danceability,energy,acousticness,tempo
+trk_0001,Mr. Brightside,The Killers,Hot Fuss,rock,2004-06-07,222973,89,false,0.352,0.911,0.0012,148.03
+trk_0002,Blinding Lights,The Weeknd,After Hours,pop,2020-03-20,200040,93,false,0.514,0.730,0.0015,171.01
+trk_0003,Levitating,Dua Lipa,Future Nostalgia,pop,2020-03-27,203808,88,false,0.695,0.884,0.0561,103.01
+trk_0004,Shape of You,Ed Sheeran,÷,pop,2017-03-03,233713,87,false,0.825,0.652,0.5810,95.98
+trk_0005,Smells Like Teen Spirit,Nirvana,Nevermind,rock,1991-09-24,301920,86,false,0.502,0.912,0.0001,116.76
+trk_0006,Anti-Hero,Taylor Swift,Midnights,pop,2022-10-21,200690,85,false,0.637,0.643,0.1300,97.01
+trk_0007,Viva La Vida,Coldplay,Viva La Vida or Death and All His Friends,rock,2008-06-12,242373,84,false,0.486,0.617,0.0954,138.02
+trk_0008,bad guy,Billie Eilish,WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,pop,2019-03-29,194088,83,false,0.701,0.425,0.3280,135.13
+trk_0009,Seven Nation Army,The White Stripes,Elephant,rock,2003-04-01,231920,82,false,0.737,0.463,0.0082,123.88
+trk_0010,As It Was,Harry Styles,Harry's House,pop,2022-05-20,167303,81,false,0.520,0.731,0.3420,173.93
+trk_0011,Dreams,Fleetwood Mac,Rumours,rock,1977-02-04,257800,79,false,0.828,0.492,0.0644,120.15
+trk_0012,Somebody That I Used to Know,Gotye,Making Mirrors,pop,2011-08-19,244973,78,false,0.865,0.521,0.5480,129.06
+trk_0013,Baile de Favela,MC João,Baile de Favela,brazilian funk,2015-09-16,186400,74,true,0.879,0.829,0.1090,130.02
+trk_0014,Ella Baila Sola,Eslabon Armado,DESVELADO,regional mexican,2023-04-28,165671,77,false,0.668,0.758,0.4260,147.96
+trk_0015,An Ending (Ascent),Brian Eno,Apollo: Atmospheres and Soundtracks,ambient,1983-07-01,266320,58,false,0.237,0.072,0.9210,72.18
+trk_0016,Dynamite,BTS,BE,k-pop,2020-11-20,199054,76,false,0.746,0.765,0.0112,114.04
+trk_0017,Calm Down,Rema,Rave & Roses,afrobeats,2022-03-25,219669,75,false,0.814,0.728,0.3450,107.98
+trk_0018,HUMBLE.,Kendrick Lamar,DAMN.,hip hop,2017-04-14,177000,74,true,0.908,0.621,0.0003,150.01
+trk_0019,One More Time,Daft Punk,Discovery,electronic,2001-03-12,320357,72,false,0.613,0.697,0.0193,122.74
+trk_0020,Take Five,The Dave Brubeck Quartet,Time Out,jazz,1959-12-14,324133,68,false,0.477,0.260,0.9080,87.27
+trk_0021,Bum Bum Tam Tam,MC Fioti,Bum Bum Tam Tam,brazilian funk,2017-03-08,155800,67,false,0.934,0.835,0.0450,131.06
+trk_0022,PRC,Peso Pluma,GÉNESIS,regional mexican,2023-06-22,184067,72,true,0.783,0.733,0.3040,139.92
+trk_0023,Weightless,Marconi Union,Weightless,ambient,2011-10-16,482000,53,false,0.211,0.041,0.8870,66.24
+trk_0024,Super Shy,NewJeans,Get Up,k-pop,2023-07-21,154667,71,false,0.776,0.671,0.1320,149.98
+trk_0025,Last Last,Burna Boy,Love Damini,afrobeats,2022-07-08,172342,69,false,0.795,0.712,0.0940,88.10
+trk_0026,SICKO MODE,Travis Scott,ASTROWORLD,hip hop,2018-08-03,312820,70,true,0.834,0.730,0.0051,155.01
+trk_0027,Strobe,deadmau5,For Lack of a Better Name,electronic,2009-09-22,548000,60,false,0.602,0.604,0.0140,128.00
+trk_0028,So What,Miles Davis,Kind of Blue,jazz,1959-08-17,545000,59,false,0.486,0.242,0.8940,136.12
+trk_0029,Vai Malandra,Anitta,Vai Malandra,brazilian funk,2017-12-18,199360,65,true,0.890,0.844,0.1460,130.03
+trk_0030,un x100to,Grupo Frontera,El Comienzo,regional mexican,2023-08-25,194563,67,false,0.728,0.741,0.2090,124.87
+trk_0031,A Walk,Tycho,Dive,ambient,2011-11-08,317000,51,false,0.582,0.288,0.4730,102.11
+trk_0032,How You Like That,BLACKPINK,THE ALBUM,k-pop,2020-10-02,182956,66,false,0.816,0.782,0.0101,130.02
+trk_0033,Essence,Wizkid,Made in Lagos,afrobeats,2020-10-30,248040,65,false,0.849,0.648,0.0990,103.95
+trk_0034,God's Plan,Drake,Scorpion,hip hop,2018-06-29,198973,64,true,0.754,0.449,0.0332,77.17
+trk_0035,Midnight City,M83,Hurry Up We're Dreaming,electronic,2011-10-18,243960,63,false,0.526,0.729,0.0161,105.01
+trk_0036,The Big Ship,Brian Eno,Another Green World,ambient,1975-09-01,180000,41,false,0.278,0.162,0.8520,75.32
+trk_0037,Bumbum Granada,MC Zaac,Bumbum Granada,brazilian funk,2016-07-08,170000,55,true,0.923,0.861,0.0720,130.08
+trk_0038,AMG,Natanael Cano,Nata Montana,regional mexican,2023-06-30,174000,62,true,0.759,0.693,0.2450,132.04
+trk_0039,Abandon Window,Jon Hopkins,Immunity,ambient,2013-06-03,294000,44,false,0.324,0.094,0.8110,76.28
+trk_0040,LOVE DIVE,IVE,LOVE DIVE,k-pop,2022-04-05,177187,61,false,0.703,0.753,0.0420,117.02
+trk_0041,Water,Tyla,TYLA,afrobeats,2024-03-22,200255,60,false,0.819,0.722,0.1120,117.98
+trk_0042,No Role Modelz,J. Cole,2014 Forest Hills Drive,hip hop,2014-12-09,292987,59,true,0.694,0.521,0.0410,100.04
+trk_0043,Innerbloom,RÜFÜS DU SOL,Bloom,electronic,2016-01-22,578000,48,false,0.606,0.476,0.0680,122.02
+trk_0044,Blue in Green,Miles Davis,Kind of Blue,jazz,1959-08-17,337000,46,false,0.418,0.131,0.9360,82.40
+trk_0045,Olha a Explosão,MC Kevinho,Olha a Explosão,brazilian funk,2016-12-27,163000,53,false,0.905,0.872,0.0360,130.11
+trk_0046,La Bebe,Yng Lvcas,La Bebe (Remix),regional mexican,2023-03-17,234000,56,true,0.790,0.619,0.1620,130.06
+trk_0047,Near Light,Ólafur Arnalds,Living Room Songs,ambient,2011-12-05,211000,39,false,0.294,0.082,0.9470,70.13
+trk_0048,OMG,NewJeans,NewJeans 'OMG',k-pop,2023-01-02,212253,55,false,0.804,0.771,0.0550,127.97
+trk_0049,Peru,Fireboy DML,Playboy,afrobeats,2022-08-05,151707,52,false,0.832,0.676,0.1270,107.04
+trk_0050,Money Trees,Kendrick Lamar,good kid m.A.A.d city,hip hop,2012-10-22,386907,54,true,0.716,0.531,0.0700,71.99
+trk_0051,Opus,Eric Prydz,Opus,electronic,2016-02-05,543000,42,false,0.572,0.687,0.0068,126.00
+trk_0052,Cantaloupe Island,Herbie Hancock,Empyrean Isles,jazz,1964-06-17,333000,37,false,0.604,0.413,0.7640,116.23
+trk_0053,SentaDONA,Luísa Sonza,SentaDONA,brazilian funk,2022-03-17,147000,40,true,0.943,0.853,0.0820,130.14
+trk_0054,CH Y LA P,Fuerza Regida,Pa Las Baby's Y Belikeada,regional mexican,2023-10-20,156000,44,true,0.742,0.711,0.2870,145.08
+trk_0055,Ambre,Nils Frahm,Wintermusik,ambient,2009-01-01,232000,13,false,0.201,0.032,0.9780,60.42
+trk_0056,Ditto,NewJeans,NewJeans 'OMG',k-pop,2023-01-02,185507,45,false,0.809,0.641,0.1180,133.05
+trk_0057,Rap da Felicidade,Cidinho & Doca,Rap da Felicidade,brazilian funk,1995-01-01,298000,14,false,0.827,0.783,0.2180,129.71
+trk_0058,1/2,Brian Eno,Ambient 1: Music for Airports,ambient,1978-01-01,535000,22,false,0.185,0.046,0.9620,63.77
+trk_0059,Shook Ones Pt. II,Mobb Deep,The Infamous,hip hop,1995-04-25,325507,38,true,0.757,0.779,0.0610,94.18
+trk_0060,Parado no Bailão,MC L da Vinte,Parado no Bailão,brazilian funk,2018-07-23,177000,34,true,0.916,0.812,0.1040,130.07
